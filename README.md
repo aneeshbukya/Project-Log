@@ -2,8 +2,8 @@
 
 📝 Info about all my repositories and their development progess
 
-| Repository Name | Description | Progress |
-|-----------------|-------------|----------|
+| Repository Name | Description | Progress | Date of Completion |
+|-----------------|-------------|----------| -------------------|
 | [UMich BME Dept IT Slack Bot](https://github.com/ciaracade/bme-it-slack-bot) |👩🏽‍💻 A chat bot that seamlessly integrates TeamDynamix, OpenAI, and Slack to provide efficient ticket assistance for the University of Michigan Biomedical Engineering IT Department.|⚠️ In Progress|
 | [Koi's CherryCraft](https://github.com/ciaracade/KoisCherrycraft) |🌸 A Minecraft Mod that adds new cherry blossom items to your gameplay!|⚠️ In Progress|
 | [Koi's Pretty cakes](https://github.com/ciaracade/KoisPrettyCakes) |🎂 Adds new decorated cakes and ingredients to your Minecraft experience!|⚠️ In Progress|
