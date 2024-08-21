@@ -3,23 +3,15 @@
 📝 Info about all my repositories and their development progess
 
 | Repository Name | Description | Progress | Date of Completion |
-|-----------------|-------------|----------| -------------------|
-| [UMich BME Dept IT Slack Bot](https://github.com/ciaracade/bme-it-slack-bot) |👩🏽‍💻 A chat bot that seamlessly integrates TeamDynamix, OpenAI, and Slack to provide efficient ticket assistance for the University of Michigan Biomedical Engineering IT Department.|⚠️ In Progress|
-| [Koi's CherryCraft](https://github.com/ciaracade/KoisCherrycraft) |🌸 A Minecraft Mod that adds new cherry blossom items to your gameplay!|⚠️ In Progress|
-| [Koi's Pretty cakes](https://github.com/ciaracade/KoisPrettyCakes) |🎂 Adds new decorated cakes and ingredients to your Minecraft experience!|⚠️ In Progress|
-| [BunpouGemini](https://github.com/ciaracade/BunpouGemini) |🤖 A full stack project using Google's Gemini AI for MHacksxGoogle Hackathon, that allows users to practice Japanese grammar in conversation.|⚠️ In Progress|
-| [Youtube Clone](https://github.com/ciaracade/youtube-clone) |📷 A responsive React JS based web app that serves as a Youtube Clone.|⚠️ In Progress|
-| [Legend of Zelda: Breath of the Wild Recipe API](https://github.com/ciaracade/BOTW-Recipe-API) |🍲 An API that serves data about food and recipes in the Breath of the Wild game franchise.|⚠️ In Progress|
-| [Calculator](https://github.com/ciaracade/calculator) |🧮 Simple HTML, CSS, and Javascript calculator. Project part of the Odin Project curriculum.|⚠️ In Progress|
-| [Github Portfolio Website](https://github.com/ciaracade/ciaracade.github.io) |👤 Portfolio website|⚠️ In Progress|
-| [Go URL Shortener](https://github.com/ciaracade/go-url-shortener) |🔗 An http.Handler that forwards paths to other URLs written in Go|✅ Completed|
-| [Email Extrcator Python Script](https://github.com/ciaracade/email-extractor) |📧 Python script that grabs emails from inputted text and outputs to a separate file.|✅ Completed|
-| [Etch-a-Sketch Website](https://github.com/ciaracade/etch-a-sketch) |🎨 Website that serves as an etch a sketch. Part of The Odin Project curriculum.|✅ Completed|
-| [Rock Paper Scissors](https://github.com/ciaracade/rock-paper-scissors) |✂️ A rock paper scissors project website by The Odin Project|✅ Completed|
-| [Breath of the Wild Recipes](https://github.com/ciaracade/odin-recipes) |📖 According to the Odin Project curriculum, a recipes page that allows us to practice HTML and CSS we've learned so far.|✅ Completed|
-| [Password Generator](https://github.com/ciaracade/Password-Generator) |🔒 Website that generates passwords using given information.|✅ Completed|
-| [Example Landing Page](https://github.com/ciaracade/landing-page) |🏠 Landing page for The Odin Project|✅ Completed|
-
-
+|-----------------|-------------|----------|-------------------|
+| [ProfRanker AI](https://github.com/aneeshbukya/ProfRanker-AI) | Developed an AI platform using NLP and machine learning to analyze professor reviews, providing insights into teaching performance and student satisfaction for better course selection. | ⚠️ In Progress |
+| [Large Action Models](https://github.com/aneeshbukya/Large-Action-Models) | Created a framework for training large-scale action models with deep learning, focusing on optimizing performance for complex tasks like action recognition and real-time decision-making. | ⚠️ In Progress |
+| [EmpowerHR: AI-Powered HR Agents](https://github.com/aneeshbukya/EmpowerHR--AI-Powered-HR-Agents) | Developed a Django-based web app to automate HR tasks such as summarizing candidate notes, answering FAQs, and onboarding, streamlining HR operations for improved efficiency and employee experience. | ⚠️ In Progress |
+| [Breast Cancer Diagnosis Predictor](https://github.com/aneeshbukya/Breast-Cancer-Diagnosis-Predictor) | Developed a Streamlit web app for breast cancer prediction using Scikit-learn, achieving over 98% accuracy with effective data preprocessing and feature visualization. | ✅ Completed |
+| [RepIt - Personal AI Trainer](https://github.com/aneeshbukya/RepIt) | Utilized OpenCV and machine learning to create an AI trainer for exercise repetition detection and form feedback, improving user performance by 40% within a month. | ✅ Completed |
+| [Twitter Sentiment Analysis](https://github.com/aneeshbukya/Twitter-Sentiment-Investing-Strategy) | Analyzed Twitter sentiment data to assess its impact on stock trends, involving data cleaning, engagement ratio calculations for stocks, and result visualization over time. | ⚠️ In Progress |
+| [Multilingual Language Classifier](https://github.com/aneeshbukya/Multilingual-Language-Classifier) | Implemented a language classification system using Decision Tree Learning and AdaBoost, identifying whether sentence fragments are in English or Dutch with high accuracy. | ✅ Completed |
+| [Building Blockchain in Go](https://github.com/aneeshbukya/Building-Blockchain-in-Go) | Developed a blockchain implementation in Go, focusing on creating a decentralized ledger and handling transactions with an emphasis on cryptographic techniques for data integrity. | ✅ Completed |
+| [Pantry Tracker](https://github.com/aneeshbukya/Pantry-Tracker) | Built a pantry management app with Next.js and Firebase, allowing users to track inventory, manage food items, and set expiry reminders to reduce waste. | ⚠️ In Progress |
 
   
