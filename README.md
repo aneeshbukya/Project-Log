@@ -11,7 +11,7 @@
 | [RepIt - Personal AI Trainer](https://github.com/aneeshbukya/RepIt) | Utilized OpenCV and machine learning to create an AI trainer for exercise repetition detection and form feedback, improving user performance by 40% within a month. | ✅ Completed |
 | [Twitter Sentiment Analysis](https://github.com/aneeshbukya/Twitter-Sentiment-Investing-Strategy) | Analyzed Twitter sentiment data to assess its impact on stock trends, involving data cleaning, engagement ratio calculations for stocks, and result visualization over time. | ✅ Completed |
 | [Multilingual Language Classifier](https://github.com/aneeshbukya/Multilingual-Language-Classifier) | Implemented a language classification system using Decision Tree Learning and AdaBoost, identifying whether sentence fragments are in English or Dutch with high accuracy. | ✅ Completed |
-| [Building Blockchain in Go](https://github.com/aneeshbukya/Building-Blockchain-in-Go) | Developed a blockchain implementation in Go, focusing on creating a decentralized ledger and handling transactions with an emphasis on cryptographic techniques for data integrity. | ✅ Completed |
+| [Building Blockchain in Go](https://github.com/aneeshbukya/Building-Blockchain-in-Go) | Developed a blockchain implementation in Go, focusing on creating a decentralized ledger and handling transactions with an emphasis on cryptographic techniques for data integrity. | ⚠️ In Progress |
 | [Pantry Tracker](https://github.com/aneeshbukya/Pantry-Tracker) | Built a pantry management app with Next.js and Firebase, allowing users to track inventory, manage food items, and set expiry reminders to reduce waste. | ✅ Completed |
 
   
