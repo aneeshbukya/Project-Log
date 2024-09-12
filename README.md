@@ -1,4 +1,4 @@
-![Repository Log](https://i.imgur.com/4YZF8Y3.png)
+![Aneesh's Repository Log](https://i.imgur.com/4YZF8Y3.png)
 
 📝 Info about all my repositories and their development progess
 
